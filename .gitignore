@@ -1,8 +1,11 @@
 .env
 *.db
 __pycache__/
+*.pyc
 venv/
 .venv/
 node_modules/
 build/
 dist/
+.vscode/
+.DS_Store
