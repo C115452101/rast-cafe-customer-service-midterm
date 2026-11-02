@@ -173,7 +173,7 @@ The `.env` file contains private API keys and must never be uploaded to GitHub.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/C115452101/rast-cafe-customer-service-midterm
 ```
 
 Then open the project folder:
